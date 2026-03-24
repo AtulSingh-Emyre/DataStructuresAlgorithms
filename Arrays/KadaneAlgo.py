@@ -16,3 +16,5 @@ def get_max_subarray(arr: List[int]) -> int:
         max_sum = max(curr_sum, max_sum) # take the max of current sum
     return max_sum
 
+
+
